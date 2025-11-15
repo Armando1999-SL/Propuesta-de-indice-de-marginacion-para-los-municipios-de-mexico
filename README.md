@@ -46,3 +46,9 @@ Los resultados obtenidos mediante PCA muestran una **representación satisfactor
 
 *Los datos oficiales pueden obtenerse en el siguiente enlace:*  
 [Índices de marginación 2020 - CONAPO](https://www.gob.mx/conapo/documentos/indices-de-marginacion-2020-284372)
+
+**Indice de marginación continuo en [0,1] para distintos componentes**
+![](im_continuo.png)
+
+**Índice de margicación categórico para distintos componentes**
+![](im_categorico.png)
